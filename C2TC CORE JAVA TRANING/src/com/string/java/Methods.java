@@ -2,7 +2,7 @@ package com.string.java;
 
 import java.util.Scanner;
 
-public class methods {
+public class Methods {
 
 	public static void main(String[] args) {
 		

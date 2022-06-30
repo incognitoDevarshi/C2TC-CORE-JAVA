@@ -1,6 +1,6 @@
 package com.operator.java;
 
-public class ternaryOperator {
+public class TernaryOperator {
 
 	public static void main(String[] args) {
 				

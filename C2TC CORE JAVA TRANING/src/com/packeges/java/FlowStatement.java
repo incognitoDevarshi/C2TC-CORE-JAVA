@@ -1,12 +1,15 @@
-package com.conditionalStatement.java;
+package com.packeges.java;
 
-public class IfElse {
+public class FlowStatement {
 
 	public static void main(String[] args) {
+				
+
+	}
+
+	public void IfElse() {
+		int x = 5;
 		
-		// First if else loop
-			int x = 5;
-			
         if(x == 5)
         
       	  System.out.println("Value of x is 5");
@@ -52,7 +55,6 @@ public class IfElse {
 		else 
 				
 			System.out.println("Wait for it nibba nibbi ");
-				
 		
 	}
 

@@ -1,6 +1,6 @@
 package com.operator.java;
 
-public class operator {
+public class Operator {
 	
 	public static void main(String[] args) {
 	

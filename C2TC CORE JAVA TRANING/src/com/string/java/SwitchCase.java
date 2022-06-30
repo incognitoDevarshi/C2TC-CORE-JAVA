@@ -1,7 +1,7 @@
 package com.string.java;
 import java.util.*;
 
-public class switchcase {
+public class SwitchCase {
 
 	public static void main(String[] args) {
 		
