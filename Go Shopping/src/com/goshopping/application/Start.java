@@ -17,7 +17,7 @@ public static void main(String[] args) {
 		NormalAcc normalAccObj = new GSNormalAcc(5678, "normal_account_name", 1234f, NormalAcc.getDeliveryCharges());
 
 //	d. Invoke bookProduct() method
-		primeAccObj.bookProduct(1234f);
+		primeAccObj.bookProduct(4321f);
 		normalAccObj.bookProduct(1234f);
 
 //	e. Invoke toString() method
